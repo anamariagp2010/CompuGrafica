@@ -1,4 +1,4 @@
-# CompuGrafica
+# Computación Grafica
 
 Proyecto Computación Gráfica
 
